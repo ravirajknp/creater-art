@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.creater {
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    margin-left: 10px;
+}
+
+
+.creater .title .author{
+    font-size: 1.1rem;
+    color: #000;
+    font-weight: 500;
+}
+
+.creater .title .item-title {
+    font-size: 1.1rem;
+    color: #c2c2c2;
+    font-weight: 300;
+
+}

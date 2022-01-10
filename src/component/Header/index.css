@@ -1,0 +1,33 @@
+
+.header {
+display: flex;
+justify-content: space-between;
+margin: 10px 20px;
+}
+
+.header .sort-by-btn {
+    display: flex;
+}
+
+.header .sort-by-btn .btn {
+    padding: 5px 10px;
+    border: 1px solid #bdbdbd;
+    border-radius: 20px;
+    width: 90px;
+    outline: none;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-right: 10px;
+    background-color: transparent;
+}
+
+.header .sort .sort-select{
+    padding: 5px 10px;
+    border: 1px solid #bdbdbd;
+    border-radius: 20px;
+    outline: none;
+    font-size: 1.1rem;
+    font-weight: 400;
+    background-color: transparent;
+}
+

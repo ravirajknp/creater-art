@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #bdbdbd;
+}
+
+.incre-decre-btn {
+  display: flex;
+  align-items: center;
+  margin: 5px 15px;
+}
+
+.value {
+    color: #bdbdbd;
+    font-size: 1.2rem;
+    margin: 5px 10px;
+}
+
+.inc-dec button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  height: 40px;
+  color: #bdbdbd;
+}
